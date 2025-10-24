@@ -1,3 +1,5 @@
+# Nombre: Sara Garcia Urrego
+
 # Actividad 1: Ejercicios prácticos de Java
 
 Nota de implementación: realice cada ejercicio exclusivamente en el método main de una clase Java dentro de un proyecto de consola.
